@@ -29,3 +29,7 @@ h2 {
     padding: 1%;
     border-radius: 5px;
 }
+
+p {
+    color: gray;
+}
