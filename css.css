@@ -2,16 +2,18 @@ body {
     background-color: #191102;
     font-family: sans-serif;
     line-height: 1.6;
+    font-size: 2vw;
+    overflow: hidden;
 }
 
 .content {
-    padding: 10%; 
+    padding: 5%; 
     text-align: center;
 }
 
 h1 {
     color: #304C6E;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 h2 {
