@@ -278,7 +278,6 @@ function chooseThree(){
                 let chosen = names.splice(j, 1)[0];
                 used.push(chosen);
 
-                console.log(name, chosen, used);
                 break;
             }
         }
