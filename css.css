@@ -21,7 +21,8 @@ h2 {
     color: #8c2f39;
     font-size: 2em;
     font-family: 'Press Start 2P', sans-serif;
-    }
+    text-transform: capitalize;
+}
 
 #button {
     background-color: red;
